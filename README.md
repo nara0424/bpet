@@ -21,6 +21,7 @@ IDE : Eclipse
 
 ## 시연 영상
 
+<a href="https://www.youtube.com/watch?v=gFA35uqqr6M" target="_blank"><image src = "https://img.youtube.com/vi/gFA35uqqr6M/mqdefault.jpg"></a>
 
 
 ## 어려웠던 점
